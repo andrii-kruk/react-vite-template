@@ -9,8 +9,7 @@ export default defineConfig({
       src: '/src',
       components: '/src/components',
       pages: '/src/pages',
-      assets: '/src/assets'
     },
   },
-  base: '/react_vite/',
+  base: '/react-vite-template/',
 });
